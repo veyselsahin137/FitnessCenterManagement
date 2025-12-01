@@ -32,4 +32,3 @@ veysel.sahin3@ogr.sakarya.edu.tr
 melih.eroz1@ogr.sakarya.edu.tr
 
 deneme 123
-aabb
